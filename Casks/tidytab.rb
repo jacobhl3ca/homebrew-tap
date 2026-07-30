@@ -4,7 +4,7 @@ cask "tidytab" do
 
   url "https://github.com/jacobhl3ca/safari-pinned-tab-automation/releases/latest/download/TidyTab.dmg"
   name "TidyTab"
-  desc "Menu-bar app to bulk unpin or close Safari pinned tabs"
+  desc "Menu-bar app to bulk pin, unpin, or close Safari tabs"
   homepage "https://tidytab.jacobhl.com"
 
   app "TidyTab.app"
